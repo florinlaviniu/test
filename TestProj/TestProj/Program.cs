@@ -21,9 +21,7 @@ namespace TestProj
 
             Trigonometric.TrianlgeSidesInput(12, 20, 25);
             Console.ReadLine();
-        }
-
-       
+        }       
     }
 
     public class Trigonometric
