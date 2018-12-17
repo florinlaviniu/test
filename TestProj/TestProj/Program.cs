@@ -66,7 +66,6 @@ namespace TestProj
                 default:
                     Console.WriteLine("Sorry ! Try Again !");
                     break;
-
             }
         }
     }
