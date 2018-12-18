@@ -48,18 +48,18 @@ namespace TestProj
             switch (TriangleType)
             {
                 case "Equilateral":
-                    Console.WriteLine("It is Equilateral Traingle ! Reason: It's all sides are equal.\n\n\t i. e. {0}=={1}==                                 {2}", side1, side2, side3);
+                    Console.WriteLine("florin It is Equilateral Traingle ! Reason: It's all sides are equal.\n\n\t i. e. {0}=={1}==                                 {2}", side1, side2, side3);
                     Console.WriteLine("For Next : Press Enter \n");
 
                     break;
 
                 case "Isosceles":
-                    Console.WriteLine("It is Isosceles Traingle ! Reason: It's two sides are equal.");
+                    Console.WriteLine("florin It is Isosceles Traingle ! Reason: It's two sides are equal.");
                     Console.WriteLine("For Next : Press Enter \n");
                     break;
 
                 case "Scalene":
-                    Console.WriteLine("It is Scalene Traingle ! Reason: It's all sides have different lenght !!");
+                    Console.WriteLine("florin It is Scalene Traingle ! Reason: It's all sides have different lenght !!");
                     Console.WriteLine("For Next : Press Enter \n");
                     break;
 
